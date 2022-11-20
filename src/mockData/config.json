@@ -1,0 +1,62 @@
+{
+  "hint": [
+    "Der Download dauert nicht länger als 10 Minuten.",
+    "Durchschnittlich schnurrt eine Katze in ihrem Leben 10.950 Stunden",
+    "Eine fitte Katze kann aus dem Stand bis zu zwei Meter hoch springen."
+  ],
+  "community": {
+    "logo": "./images/logo.svg",
+    "description": "Lorem Ipsum dolor sit amet\nconsetetur sadipscing elitr, sed diam nonumy\neirmod tempor invidunt ut labore et dolore magna aliquyam erat",
+    "discord": "https://discord.gg/legionofsensei",
+    "teamspeak": "ts.legionofsensei.de",
+    "website": "www.legionofsensei.de"
+  },
+  "server": {
+    "militaryrp": {
+      "title": "MILITARY ROLEPLAY",
+      "description": "Du musst dich entscheiden, kämpfe für dein Land als Militant oder gewährleiste mit der NATO Frieden und Demokratie.",
+      "image": "./images/militaryrp.svg",
+      "staff": [
+        {
+          "name": "Hiraku",
+          "steamid": "76561198063946583",
+          "rank": "Sensei | Owner"
+        },
+        {
+          "name": "Jan",
+          "steamid": "76561198187994085",
+          "rank": "Projektleiter"
+        },
+        {
+          "name": "Darki",
+          "steamid": "76561198360837271",
+          "rank": "Projektleiter"
+        },
+        {
+          "name": "Hiraku",
+          "steamid": "76561198063946583",
+          "rank": "Sensei | Owner"
+        },
+        {
+          "name": "Jan",
+          "steamid": "76561198187994085",
+          "rank": "Projektleiter"
+        },
+        {
+          "name": "Hiraku",
+          "steamid": "76561198063946583",
+          "rank": "Sensei | Owner"
+        },
+        {
+          "name": "Jan",
+          "steamid": "76561198187994085",
+          "rank": "Projektleiter"
+        }
+      ],
+      "music": [
+        "https://www.youtube.com/watch?v=pHlSE9j5FGY",
+        "https://www.youtube.com/watch?v=pHlSE9j5FGY"
+      ]
+    }
+  }
+}
